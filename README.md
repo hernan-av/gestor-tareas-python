@@ -1,4 +1,4 @@
-# Parcial 2 – Gestor de Tareas en Python
+# Gestor de Tareas en Python
 
 Aplicación de consola desarrollada en Python. Permite al usuario crear, visualizar, completar y eliminar tareas, con una interfaz enriquecida mediante la biblioteca `rich`. El objetivo es demostrar buenas prácticas de modularización, validación y experiencia de usuario en un entorno de consola.
 

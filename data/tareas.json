@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "titulo": "Compra Supermercado",
+        "descripcion": "Hacer compra semanal",
+        "prioridad": "Media",
+        "estado": "Pendiente"
+    },
+    {
+        "id": 2,
+        "titulo": "Pagar el Alquiler",
+        "descripcion": "Realizar transferencia antes de fecha limite",
+        "prioridad": "Alta",
+        "estado": "Pendiente"
+    },
+    {
+        "id": 3,
+        "titulo": "Revisar Correos",
+        "descripcion": "Leer y responder mails personales y de trabajo",
+        "prioridad": "Media",
+        "estado": "Completada"
+    },
+    {
+        "id": 4,
+        "titulo": "Solicitar turno m\u00e9dico",
+        "descripcion": "Pedir turno para cl\u00ednico anual",
+        "prioridad": "Alta",
+        "estado": "Pendiente"
+    },
+    {
+        "id": 5,
+        "titulo": "Organizar Archivos",
+        "descripcion": "Ordenar carpetas del proyecto y limpiar descargas viejas",
+        "prioridad": "Baja",
+        "estado": "Pendiente"
+    }
+]
